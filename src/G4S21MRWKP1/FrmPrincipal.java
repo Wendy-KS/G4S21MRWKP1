@@ -9,7 +9,7 @@ import java.awt.Color;
 
 /**
  *
- * 
+ * @author sonia
  */
 public class FrmPrincipal extends javax.swing.JFrame {
 

@@ -7,7 +7,7 @@ package G4S21MRWKP1;
 
 /**
  *
- * @author alexg
+ * @author sonia
  */
 public class FrmSegundo extends javax.swing.JFrame {
 
